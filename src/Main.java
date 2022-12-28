@@ -5,5 +5,7 @@ public class Main {
 
         String str = "Yes!!!";
         System.out.println(str);
+
+        System.out.println("+test2 2");
     }
 }
