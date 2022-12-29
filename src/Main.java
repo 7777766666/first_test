@@ -7,5 +7,6 @@ public class Main {
         System.out.println(str);
 
         System.out.println("+test2 2");
+        System.out.println("@good");
     }
 }
